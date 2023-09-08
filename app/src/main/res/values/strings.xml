@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Ryuooda Food App</string>
+    <string name="text_header_name" translatable="false">Hai Bahrul,</string>
+    <string name="text__header_greatings" translatable="false">Mau makan apa hari ini?</string>
+    <string name="text_disc" translatable="false">Diskon 30%</string>
+    <string name="text_desc" translatable="false">Pesan makanan lewat aplikasi dan dapatkan diskonmu !</string>
+    <string name="text_drinks" translatable="false">Minuman</string>
+    <string name="text_noodles" translatable="false">Mie</string>
+    <string name="text_snack" translatable="false">Camilan</string>
+    <string name="text_nasi" translatable="false">Nasi</string>
+    <string name="text_menu_name" translatable="false">List menu makanan</string>
+    <string name="text_menu_1" translatable="false">Ayam Bakar</string>
+    <string name="text_price_1" translatable="false">Rp 50.000</string>
+    <string name="text_menu2" translatable="false">Ayam Goreng</string>
+    <string name="text_price_2" translatable="false">Rp 40.000</string>
+    <string name="text_menu4" translatable="false">Sate Usus</string>
+    <string name="text_menu3" translatable="false">Ayam Geprek</string>
+    <string name="text_price_3" translatable="false">Rp 5.000</string>
+    <string name="text_see_all" translatable="false">lihat semua</string>
+    <string name="image_content_desc" translatable="false">Gambar</string>
+</resources>
