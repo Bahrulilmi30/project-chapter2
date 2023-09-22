@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_nav_graph"
+    app:startDestination="@id/fragmentHome">
+    <fragment
+        android:id="@+id/fragmentHome"
+        android:name="com.catnip.homepemesananmakanan.presentation.presentation.fragmenthome.FragmentHome"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/action_fragmentHome_to_fragmentDetails"
+            app:destination="@id/fragmentDetails" />
+    </fragment>
+    <fragment
+        tools:layout="@layout/fragment_details"
+        android:id="@+id/fragmentDetails"
+        android:name="com.catnip.homepemesananmakanan.presentation.details.FragmentDetails"
+        android:label="FragmentDetails" >
+        <argument
+            android:name="item"
+            app:argType="com.catnip.homepemesananmakanan.presentation.model.Item"
+            app:nullable="true"
+            android:defaultValue="@null" />
+    </fragment>
+</navigation>
