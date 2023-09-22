@@ -18,4 +18,9 @@
     <string name="text_price_3" translatable="false">Rp 5.000</string>
     <string name="text_see_all" translatable="false">lihat semua</string>
     <string name="image_content_desc" translatable="false">Gambar</string>
+    <string name="text_nama_makanan" translatable="false">Nama makanan</string>
+    <string name="text_harga_makanan" translatable="false">Harga makanan</string>
+    <string name="text_lokasi" translatable="false">Lokasi</string>
+    <string name="text_nama_lokasi" translatable="false">Jl. BSD Green Office Park Jl. BSD Grand Boulevard, Sampora, BSD, Kabupaten Tangerang, Banten 15345</string>
+    <string name="text_jumlah" translatable="false">1</string>
 </resources>
